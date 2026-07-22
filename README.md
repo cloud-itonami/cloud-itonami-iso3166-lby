@@ -2,8 +2,23 @@
 
 **LBY**: Libya.
 
-- public procurement
-- Company Registry
+- No verifiable currently-operating agency ('Privatisation and
+  Investment Board' / 'General Authority of Investment and Ownership of
+  Public Companies') administering Law No. 9 of 2010 on Investment
+  Promotion was found this iteration -- the Libyan Investment Authority
+  (lia.ly) is confirmed to be Libya's sovereign wealth fund, NOT an
+  investment-promotion agency. This vertical's market-entry mechanism is
+  therefore grounded in the Ministry of Economy and Trade's own live
+  company/business-registration and foreign-company-office procedures
+  instead of a named investment-promotion authority.
+- Libya is NOT an OHADA member state (independently confirmed) --
+  company/investment law is purely national: Law No. 9 of 2010 on
+  Investment Promotion (excludes oil & gas, Art. 27), administered in
+  practice through the Ministry of Economy and Trade's Commercial
+  Registry (confirmed by World Bank Doing Business 2020's own text).
+- Ministry of Economy and Trade's own LYD 150,000 minimum maintained
+  bank-balance requirement for a foreign company representative office
+  (economy.gov.ly) -- this vertical's flagship governor check.
 
 AGPL-3.0-or-later.
 
