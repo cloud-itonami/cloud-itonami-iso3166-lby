@@ -7,7 +7,7 @@ Independent market-entry compliance for Libya.
   iteration (domain guesses for a "Privatisation and Investment Board"
   / "General Authority of Investment and Ownership of Public Companies"
   both failed to resolve; WebSearch budget exhausted -- see
-  `src/marketentry/facts.cljc` for the full list of sources checked,
+  `src/marketentry/facts.cljk` for the full list of sources checked,
   including the Libyan Investment Authority, which is confirmed to be
   Libya's sovereign wealth fund, not an investment-promotion agency,
   disclosed honestly rather than glossed over).
